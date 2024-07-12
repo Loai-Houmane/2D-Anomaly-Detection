@@ -1,0 +1,8 @@
+Flask==2.2.5
+numpy==1.21.6
+pandas
+torch==1.8.1+cu101
+dash==2.15.0
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0

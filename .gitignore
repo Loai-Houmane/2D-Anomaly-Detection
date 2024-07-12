@@ -1,0 +1,5 @@
+models/carpet.pt
+models/__pycache__/
+models/hrnet/__pycache__/
+models/hrnet/config/__pycache__/
+.vscode/
